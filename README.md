@@ -8,6 +8,7 @@ Developer:     Safal Bhandari
 
 Game Options: 	1. Single Player vs Computer
                 2. Multiplayer
+                
 About the game: 
 
 Jut Patti is a card game where the player or a computer whoever first manages to collect a pair for each card on their hand wins the game.
